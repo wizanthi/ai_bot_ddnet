@@ -24,7 +24,7 @@ const defaultConfig = {
   port: 8304,
   botNick: "AI_bot",
   ownerNick: "Mouse Tee(3050)",
-  groqKey: "",
+  groqKey: "YOUR_KEY_HERE",
   model: "meta-llama/llama-4-scout-17b-16e-instruct",
   maxReplyLength: 250,
   replyDelay: 1200,

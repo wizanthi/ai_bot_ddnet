@@ -23,7 +23,7 @@ const defaultConfig = {
   host: "87.120.186.242",
   port: 8304,
   botNick: "AI_bot",
-  ownerNick: "Mouse Tee(3050)",
+  ownerNick: "your_in_game_name",
   groqKey: "YOUR_KEY_HERE",
   model: "meta-llama/llama-4-scout-17b-16e-instruct",
   maxReplyLength: 250,
